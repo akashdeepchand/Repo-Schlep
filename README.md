@@ -9,7 +9,7 @@ Thank you for your interest in contributing to our project! 💛
 This is our website link of our Sign in/up Page 
 
 
-https://dependabot-npm-and-yarn-dns-packet-1-3-4.d30dl8xk9x6qzt.amplifyapp.com/
+https://master.d3rsko6emsn8ph.amplifyapp.com/
 
 We have made it using Html,CSS and react web development language.
 
