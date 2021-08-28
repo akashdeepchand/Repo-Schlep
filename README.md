@@ -21,15 +21,15 @@ Our target is to help new users who find it difficult to interact with GitHub di
 
 ## Installation Guide
 ### Python
-i) Download latest Python version from www.python.org/downloads
-ii) Download the essential plugins for Python in VS Code.
-iii) Open IDE and run the given commands in the terminal or command prompt -
+1. Download latest Python version from www.python.org/downloads
+2. Download the essential plugins for Python in VS Code.
+3. Open IDE and run the given commands in the terminal or command prompt -
      pip install pandas
      pip install requests
      pip install django
      pip intall datetime
-iv) To run the Django server, use the following command - 
+4. To run the Django server, use the following command - 
      python manage.py runserver
-v) After running the above command, you wil recieve a URL in the terminal - example: https://127.0.0.1:8000/ - Open the URL in browser.
-vi) To close the server, press Ctrl+C. 
+5. After running the above command, you wil recieve a URL in the terminal - example: https://127.0.0.1:8000/ - Open the URL in browser.
+6. To close the server, press Ctrl+C. 
      
