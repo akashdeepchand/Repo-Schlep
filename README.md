@@ -13,10 +13,10 @@ Our target is to help new users who find it difficult to interact with GitHub di
 2. RAM: 4GB and above
 3. Disk Space: 200MB for Python and it's Modules <br /> 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;310MB for VS code <br />
-               400MB for MySQL <br />
-               500MB for Chrome <br />
-               40MB for Project <br />
-        Total: 1.45GB Recommended
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;400MB for MySQL <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;500MB for Chrome <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40MB for Project <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Total: 1.45GB Recommended
 
 ## Software Requiremets (recommended) 
 1. Python: 3.0 or above
