@@ -34,6 +34,6 @@ Our target is to help new users who find it difficult to interact with GitHub di
 6. To close the server, press Ctrl+C. 
 ### Run without Django and SQL Workbench
 1. Run API.py in VS code Terminal
-2. Give all the desired output in the terminal
+2. Give all the desired intput in the terminal
 3. Output will popup in a webpage on your default browser (data will not be saved anywhere) 
      
