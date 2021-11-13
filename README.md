@@ -11,12 +11,17 @@ Our target is to help new users who find it difficult to interact with GitHub di
 ## System Requirements (recommended)
 1. OS: Windows 7 and above
 2. RAM: 4GB and above
-3. Disk Space: 200MB
+3. Disk Space: 200MB for Python and it's Modules
+               310MB for VS code
+               400MB for MySQL
+               500MB for Chrome
+               40MB for Project
+        Total: 1.45GB Recommended
 
 ## Software Requiremets (recommended) 
 1. Python: 3.0 or above
 2. Text Editor/IDE: VS Code 
-3. Database: SQL Workbench
+3. Database: MySQL Workbench
 4. Browser: Chrome
 
 ## Installation Guide
@@ -28,14 +33,14 @@ Our target is to help new users who find it difficult to interact with GitHub di
      2. pip install requests
      3. pip install django
      4. pip intall datetime
-#### Run with Django and SQL Workbench (upcoming)
+#### Run with Django and MySQL Workbench (upcoming)
 4. To run the Django server, use the following command - 
      python manage.py runserver
 5. After running the above command, you wil recieve a URL in the terminal - example: https://127.0.0.1:8000/ - Open the URL in browser.
 6. Website will appear on your default web browser.
 7. Now you can search your result and get output in that website.
 8. To close the server, press Ctrl+C. 
-#### Run without Django and SQL Workbench (version 2.0)
+#### Run without Django and MySQL Workbench (version 2.0)
 1. Run API.py in VS code Terminal.
 2. Give all the desired intput in the terminal.
 3. Output will popup in a webpage on your default web browser (data will not be saved anywhere).
