@@ -32,4 +32,8 @@ Our target is to help new users who find it difficult to interact with GitHub di
      python manage.py runserver
 5. After running the above command, you wil recieve a URL in the terminal - example: https://127.0.0.1:8000/ - Open the URL in browser.
 6. To close the server, press Ctrl+C. 
+### Run without Django and SQL Workbench
+1. Run API.py in VS code Terminal
+2. Give all the desired output in the terminal
+3. Output will popup in a webpage on your default browser (data will not be saved anywhere) 
      
