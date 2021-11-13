@@ -16,7 +16,7 @@ Our target is to help new users who find it difficult to interact with GitHub di
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;400MB for MySQL <br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;500MB for Chrome <br />
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40MB for Project <br />
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Total: 1.45GB Recommended
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Total: 1.45GB Recommended
 
 ## Software Requiremets (recommended) 
 1. Python: 3.0 or above
