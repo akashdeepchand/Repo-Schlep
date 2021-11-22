@@ -1,4 +1,4 @@
-![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/nav1.png?raw=true "Title")
+![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/nav1.png?raw=true "Repo-Schlep")
 # Repo-Schlep
 Repo-Schlep is a GitHub Aggregator that aims at providing user-friendly web application which aims at providing desired GitHub statisics to the user.
 
@@ -64,6 +64,6 @@ Our target is to help new users who find it difficult to interact with GitHub di
 2. Give all the required intput in the terminal and press Enter.
 3. Output will popout in a webpage on your default web browser (data will not be saved anywhere).
 
-![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/1625253269659.png?raw=true "Title")
-![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/nav1.png?raw=true "Title")
+![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/1625253269659.png?raw=true "Repo-Schlep-logo")
+![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/nav1.png?raw=true "Repo-Schlep")
      
