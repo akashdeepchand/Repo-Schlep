@@ -22,7 +22,7 @@ Our target is to help new users who find it difficult to interact with GitHub di
 1. Python: 3.0 or above
 2. Text Editor/IDE: VS Code 
 3. Database: MySQL Workbench
-4. Browser: Chrome
+4. Browser: Chrome or any recognised browser of latest version
 
 ## Installation Guide
 ### Python (mandatory steps)
