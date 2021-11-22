@@ -1,4 +1,4 @@
-![alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/Code_V2.2_GUI/images/nav1.png?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 # Repo-Schlep
 Repo-Schlep is a GitHub Aggregator that aims at providing user-friendly web application which aims at providing desired GitHub statisics to the user.
 
