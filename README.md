@@ -3,8 +3,8 @@
 Repo-Schlep is a GitHub Aggregator that aims at providing user-friendly web application which aims at providing desired GitHub statisics to the user.
 
 ## Problem Statement
-To create an API Service to fetch the statistics of the contributors of user-specified GitHub repositories.
-Desired Output: Domain name along with the total contributions and unique contributors.
+To create an API Service to fetch the statistics of the contributors of user-specified GitHub repositories. <br />
+Desired Output: Domain name along with the Total contributions, Unique contributors, IDs of unique contributors and Company names within date intervals.
 
 ## Target
 Our target is to help new users who find it difficult to interact with GitHub directly. 
@@ -53,7 +53,7 @@ Our target is to help new users who find it difficult to interact with GitHub di
 #### Run Python tkinter GUI with tkinter and webbrouser Module (Version 2.2 GUI)
 1. Run gui.py directly or in any terminal/command prompt.
 2. A GUI window will appear.
-3. Fill all the entries with the desired intput and then press the 'Go' button.
+3. Fill all the entries with the required intput and then press the 'Go' button.
 4. Output will be shown in the same window.
 5. You can get the same output on webpage for better experience by clicking on the link given in the output section.
 #### Run Python file with webbrowser Module (Version 2.1 Web)
@@ -61,8 +61,9 @@ Our target is to help new users who find it difficult to interact with GitHub di
 2. Changes - Webpage with better UI and interaction.
 #### Run Python file with webbrowser Module (Version 2.0)
 1. Run API.py directly or in any terminal/command prompt.
-2. Give all the desired intput in the terminal and press Enter.
+2. Give all the required intput in the terminal and press Enter.
 3. Output will popout in a webpage on your default web browser (data will not be saved anywhere).
 
-
+![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/1625253269659.png?raw=true "Title")
+![Alt text](https://github.com/akashdeepchand/Repo-Schlep/blob/main/Code_V2.2_GUI/images/nav1.png?raw=true "Title")
      
