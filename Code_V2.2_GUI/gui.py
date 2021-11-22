@@ -31,6 +31,7 @@ window = Tk()
 window.geometry("1000x600")
 window.configure(bg = "#FFFFFF")
 window.attributes("-alpha", 1)
+window.title("Repo-Schlep")
 
 
 s_date=StringVar()
