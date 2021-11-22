@@ -1,10 +1,10 @@
 As Repo-Schlep, is a team project, here are the roles and responsibilities of every team member of this project -
 1. Aakash Deep : Back-end Development (Python Programming).
-2. Akashdeep Chand : Front-end Development (Django Framework Connections), Designing the website.
-3. Apurvaa Pathak : Designing the website, Presentation and Documentation.
-4. Monika Surana: Back-end Development (SQL Database and AWS).
-5. Priti Gupta : Back-end Development (Python Programming)
-6. Rakesh Kumar : Backend Development (Python, Database)
+2. Akashdeep Chand : Full-Stack Development (API, Django Framework, Tkinter, Figma, HTMLview, HTML, CSS, Angular, MySQL)
+3. Apurvaa Pathak : Designing the website(HTML, CSS), Presentation and Documentation.
+4. Monika Surana: Back-end Development (SQL Database and AWS)
+5. Priti Gupta : Back-end Development and Research
+6. Rakesh Kumar : Back-end Development (SQL Database and AWS)
 7. Vedansh Dixit : Documentation and Research
 8. Vitthal Vikash : Documentation and Research
 9. Yashovardhan Nasirabadkar : Documentation and Research
